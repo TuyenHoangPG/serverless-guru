@@ -1,0 +1,6 @@
+node_modules
+.serverless
+dist
+.build
+package-lock.json
+.vscode
